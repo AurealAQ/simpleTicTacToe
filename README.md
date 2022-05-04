@@ -1,1 +1,3 @@
 # simpleTicTacToe
+
+simple ticTacToe game
